@@ -23,7 +23,7 @@ To run the Python Turtle drawing code on your local machine, make sure you have 
 python pikachu.py
 python doraemon.py
 python among_us.py
-python fidget_spinner.py'''
+python fidget_spinner.py
 
 Feel free to experiment with the code, customize the drawings, and create your own Turtle art!
 
