@@ -28,19 +28,19 @@ python fidget_spinner.py
 
 Feel free to experiment with the code, customize the drawings, and create your own Turtle art!
 
-##Resources
+## Resources
 Download the Python Turtle drawing code from this repository.
 Subscribe to Platypeak Python Tutorials for more exciting Python projects and tutorials.
 Contributing
 Contributions are welcome! If you'd like to improve the existing drawings or add new ones, please fork this repository, make your changes, and submit a pull request. We appreciate your contributions!
 
-##Support
+## Support
 If you encounter any issues, have questions, or need assistance, please don't hesitate to open an issue. We're here to help.
 
 ##License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. See the LICENSE file for more details.
 
-##About Platypeak Python Tutorials
+## About Platypeak Python Tutorials
 Platypeak Python Tutorials is a YouTube channel dedicated to helping Python enthusiasts learn and master Python programming. We provide tutorials, project ideas, and coding tips to help you become a proficient Python developer. Subscribe to our YouTube channel for more Python content.
 
 Happy drawing and coding! 🚀🎨
