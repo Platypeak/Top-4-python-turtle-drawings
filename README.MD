@@ -2,19 +2,6 @@
 
 Welcome to Platypeak Python Tutorials! 🐢 This repository hosts the code for our Python Turtle drawing tutorial video, where we explore the creative potential of Python Turtle graphics to sketch popular characters and an animated Fidget Spinner. Watch the tutorial and bring these creations to life using code!
 
-## Tutorial Video
-
-🎥 Watch the tutorial video on YouTube: [Python Turtle Drawing Tutorial](https://youtube.com/shorts/1SLXoxcqfHU?si=BkXWPxqTW7XNDXUg)
-
-## Tutorial Contents
-
-In this tutorial, we cover the following topics:
-
-- Drawing Pikachu using Python Turtle
-- Creating a Doraemon drawing with Turtle graphics
-- Sketching an Among Us character using Turtle graphics
-- Animating a Fidget Spinner using Python Turtle
-
 ## Getting Started
 
 To run the Python Turtle drawing code on your local machine, make sure you have Python installed. Simply clone this repository and run each Python script for the respective drawing.
