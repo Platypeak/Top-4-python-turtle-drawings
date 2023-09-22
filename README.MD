@@ -24,9 +24,6 @@ Contributions are welcome! If you'd like to improve the existing drawings or add
 ## Support
 If you encounter any issues, have questions, or need assistance, please don't hesitate to open an issue. We're here to help.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed. See the LICENSE file for more details.
-
 ## About Platypeak Python Tutorials
 Platypeak Python Tutorials is a YouTube channel dedicated to helping Python enthusiasts learn and master Python programming. We provide tutorials, project ideas, and coding tips to help you become a proficient Python developer. Subscribe to our YouTube channel for more Python content.
 
